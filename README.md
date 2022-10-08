@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jose (Yoshi).
-- 🎓 I’m studying Computer Engineering in ETSII (Seville).
+- 🎓 I’m studying Computer Engineering at ETSII.
 - 👀 I wanna become a videogame dev.
 
