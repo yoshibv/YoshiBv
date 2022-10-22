@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Jose (Yoshi).
-- 🎓 I’m studying Computer Engineering at ETSII.
-- 👀 I wanna become a videogame dev.
+`🥵 YoshiBv.exe                                                    ⎯ ❐ ⤬`
 
+> Hello world!<br>
+> I'm a byte shy<br>
+> Own roles:<br>
+> ```🟣 Gamer```<br> ```🔴 Otaku```<br> ```🔵 He/Him```<br> ```🟠 ETSII```<br>
+
+:birthday: 23/10
